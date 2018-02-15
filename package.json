@@ -9,14 +9,14 @@
    },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RyanBryce/burger.git"
+    "url": "https://github.com/PapaDeere/burger.git"
   },
   "author": "papa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RyanBryce/burger/issues"
+    "url": "https://github.com/PapaDeere/burger/issues"
   },
-  "homepage": "https://github.com/RyanBryce/burger#readme",
+  "homepage": "https://github.com/PapaDeere/burger#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
